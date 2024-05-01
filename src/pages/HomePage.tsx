@@ -1,20 +1,16 @@
-import React, { useEffect, useState } from 'react'
-import { fetchWeatherData } from '../api/fetchWeatherData'
+import React, { useState } from 'react'
 import DatePicker from 'react-datepicker'
 
 import 'react-datepicker/dist/react-datepicker.css'
-import { fetchLocation } from '../api/fetchLocation'
 import Table from '@mui/material/Table'
 import TableBody from '@mui/material/TableBody'
-import TableCell from '@mui/material/TableCell'
 import TableContainer from '@mui/material/TableContainer'
 import TableHead from '@mui/material/TableHead'
 import TableRow from '@mui/material/TableRow'
 import Paper from '@mui/material/Paper'
 import Button from '@mui/material/Button'
 import { makeStyles } from '@mui/styles'
-import { formatDateToCustomFormat } from '../util/customDateFormat'
-import { itinerary, midAugust, midSept, startSept } from '../config/itinerary'
+import { midAugust, midSept, startSept } from '../config/itinerary'
 import TemperatureTableCell from '../components/TemperatureTableCell'
 import './styles.css' // Import your CSS file
 import { rainByCountryMonth } from '../config/rain'
@@ -29,13 +25,6 @@ const useStyles = makeStyles({
     }
 })
 
-const delay = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms))
-
-function addDays(date: Date, days: number) {
-    const result = new Date(date)
-    result.setDate(result.getDate() + days)
-    return result
-}
 const getMonthNumber = (dateString: string) => {
     const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
 
@@ -70,48 +59,6 @@ const HomePage: React.FC = () => {
 
     const [itineraryData, setItineraryData] = useState<ItineraryStop[]>(startSept)
     const [startDate, setStartDate] = useState<Date | null>(new Date('2022-09-01'))
-
-    // useEffect(() => {
-    //     if (startDate) {
-    //         const fetchItineraryData = async () => {
-    //             const updatedItinerary: ItineraryStop[] = []
-
-    //             for (const stop of itinerary) {
-    //                 // Calculate cumulative duration
-    //                 const cumulativeDuration: number =
-    //                     updatedItinerary.length > 0 ? updatedItinerary[updatedItinerary.length - 1].cumulativeDuration + stop.duration : stop.duration
-    //                 // Fetch latitude and longitude for each location
-    //                 const locationData = await fetchLocation(stop.location)
-
-    //                 const requestedDate = startDate ? addDays(startDate, cumulativeDuration).toISOString().split('T')[0] : null
-
-    //                 if (locationData && requestedDate) {
-    //                     const { lat, lng } = locationData
-
-    //                     // Fetch weather data based on coordinates
-    //                     const weatherData = await fetchWeatherData({ lat: lat.toString(), lon: lng.toString(), date: requestedDate })
-
-    //                     updatedItinerary.push({
-    //                         location: stop.location,
-    //                         duration: stop.duration,
-    //                         date: formatDateToCustomFormat(requestedDate),
-    //                         cumulativeDuration,
-    //                         lowTemp: weatherData?.tmin || 0,
-    //                         highTemp: weatherData?.tmax || 0,
-    //                         avgTemp: weatherData?.tavg || 0,
-    //                         avgPrecip: weatherData?.prcp || 0
-    //                     })
-
-    //                     await delay(1000); // Adjust the delay based on the rate limit
-    //                 }
-    //             }
-    //             console.log(updatedItinerary)
-    //             setItineraryData(updatedItinerary)
-    //         }
-
-    //         fetchItineraryData()
-    //     }
-    // }, [startDate])
 
     const data = itineraryData.map((stop) => {
         const country = stop.location.split(', ')[1]
