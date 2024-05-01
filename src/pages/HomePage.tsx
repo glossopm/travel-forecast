@@ -18,6 +18,7 @@ import { itinerary, midAugust, midSept, startSept } from '../config/itinerary'
 import TemperatureTableCell from '../components/TemperatureTableCell'
 import './styles.css' // Import your CSS file
 import { rainByCountryMonth } from '../config/rain'
+import { StyledCell } from '../components/StyledCell'
 
 const useStyles = makeStyles({
     table: {
@@ -127,31 +128,39 @@ const HomePage: React.FC = () => {
         <div>
             <h1>Itinerary Table</h1>
             <DatePicker selected={startDate} onSelect={(date) => setStartDate(date)} onChange={(date) => setStartDate(date)} />
-            <h1 style={{ fontSize: '4em' }}>{startDate?.toDateString()}</h1>
+            <h1 style={{ fontSize: '2em' }}>{startDate?.toDateString()}</h1>
             <div style={{ position: 'relative' }}>
-                <TableContainer component={Paper} style={{ overflowX: 'initial', top: '48px' }}>
-                    <Table stickyHeader className={classes.table} aria-label="Itinerary Table">
+                <TableContainer component={Paper} style={{ top: '48px' }}>
+                    <Table
+                        stickyHeader
+                        sx={{
+                            fontSize: { xs: 8, md: 30 },
+                            minWidth: 650
+                        }}
+                        className={classes.table}
+                        aria-label="Itinerary Table"
+                    >
                         <TableHead>
                             <TableRow>
-                                <TableCell>Location</TableCell>
-                                <TableCell>Duration</TableCell>
-                                <TableCell>Sum Duration</TableCell>
-                                <TableCell>Date</TableCell>
-                                <TableCell>Average Temp</TableCell>
-                                <TableCell>Low Temp</TableCell>
-                                <TableCell>High Temp</TableCell>
-                                <TableCell>Days of Rain / Month</TableCell>
-                                <TableCell>Millimeters of rain</TableCell>
-                                <TableCell>Average Precipitation</TableCell>
+                                <StyledCell>Location</StyledCell>
+                                <StyledCell>Duration</StyledCell>
+                                <StyledCell>Sum Duration</StyledCell>
+                                <StyledCell>Date</StyledCell>
+                                <StyledCell>Average Temp</StyledCell>
+                                <StyledCell>Low Temp</StyledCell>
+                                <StyledCell>High Temp</StyledCell>
+                                <StyledCell>Days of Rain / Month</StyledCell>
+                                <StyledCell>Millimeters of rain</StyledCell>
+                                <StyledCell>Average Precipitation</StyledCell>
                             </TableRow>
                         </TableHead>
                         <TableBody>
                             {data.map((stop, index) => (
                                 <TableRow key={index} className="thinner-rows">
-                                    <TableCell size="small">{stop.location}</TableCell>
-                                    <TableCell size="small">{stop.duration} days</TableCell>
-                                    <TableCell size="small">{stop.cumulativeDuration} days</TableCell>
-                                    <TableCell size="small">{stop.date}</TableCell>
+                                    <StyledCell size="small">{stop.location}</StyledCell>
+                                    <StyledCell size="small">{stop.duration} days</StyledCell>
+                                    <StyledCell size="small">{stop.cumulativeDuration} days</StyledCell>
+                                    <StyledCell size="small">{stop.date}</StyledCell>
                                     <TemperatureTableCell size="small" temperature={stop.avgTemp}>
                                         {stop.avgTemp}°C
                                     </TemperatureTableCell>
@@ -167,7 +176,7 @@ const HomePage: React.FC = () => {
                                     <TemperatureTableCell size="small" temperature={stop.mm || 0}>
                                         {stop.mm || 0}mm
                                     </TemperatureTableCell>
-                                    <TableCell size="small">{stop.avgPrecip}mm</TableCell>
+                                    <StyledCell size="small">{stop.avgPrecip}mm</StyledCell>
                                 </TableRow>
                             ))}
                         </TableBody>

@@ -241,7 +241,7 @@ export const startSept = [
     {
         location: 'Cartagena, Colombia',
         duration: 3,
-        date: '4th Sept 22',
+        date: '4th Sept',
         cumulativeDuration: 3,
         lowTemp: 26,
         highTemp: 31.2,
@@ -251,7 +251,7 @@ export const startSept = [
     {
         location: 'Parque Nacional Tayrona, Colombia',
         duration: 4,
-        date: '8th Sept 22',
+        date: '8th Sept',
         cumulativeDuration: 7,
         lowTemp: 23.7,
         highTemp: 35.8,
@@ -261,7 +261,7 @@ export const startSept = [
     {
         location: 'Mompos, Colombia',
         duration: 2,
-        date: '10th Sept 22',
+        date: '10th Sept',
         cumulativeDuration: 9,
         lowTemp: 22,
         highTemp: 29.4,
@@ -271,7 +271,7 @@ export const startSept = [
     {
         location: 'San Gil, Colombia',
         duration: 3,
-        date: '13th Sept 22',
+        date: '13th Sept',
         cumulativeDuration: 12,
         lowTemp: 0,
         highTemp: 0,
@@ -281,7 +281,7 @@ export const startSept = [
     {
         location: 'Villa de Leyva, Colombia',
         duration: 1,
-        date: '14th Sept 22',
+        date: '14th Sept',
         cumulativeDuration: 13,
         lowTemp: 7.4,
         highTemp: 19,
@@ -291,7 +291,7 @@ export const startSept = [
     {
         location: 'Bogota, Colombia',
         duration: 3,
-        date: '17th Sept 22',
+        date: '17th Sept',
         cumulativeDuration: 16,
         lowTemp: 0,
         highTemp: 0,
@@ -301,7 +301,7 @@ export const startSept = [
     {
         location: 'Salento, Colombia',
         duration: 2,
-        date: '19th Sept 22',
+        date: '19th Sept',
         cumulativeDuration: 18,
         lowTemp: 17.6,
         highTemp: 24.3,
@@ -311,7 +311,7 @@ export const startSept = [
     {
         location: 'Cali, Colombia',
         duration: 2,
-        date: '21st Sept 22',
+        date: '21st Sept',
         cumulativeDuration: 20,
         lowTemp: 18,
         highTemp: 27.5,
@@ -321,7 +321,7 @@ export const startSept = [
     {
         location: 'Popayan, Colombia',
         duration: 2,
-        date: '23rd Sept 22',
+        date: '23rd Sept',
         cumulativeDuration: 22,
         lowTemp: 11.4,
         highTemp: 22.4,
@@ -331,7 +331,7 @@ export const startSept = [
     {
         location: 'Otavalo, Ecuador',
         duration: 3,
-        date: '26th Sept 22',
+        date: '26th Sept',
         cumulativeDuration: 25,
         lowTemp: 6.5,
         highTemp: 23,
@@ -341,7 +341,7 @@ export const startSept = [
     {
         location: 'Quito, Ecuador',
         duration: 4,
-        date: '30th Sept 22',
+        date: '30th Sept',
         cumulativeDuration: 29,
         lowTemp: 7.8,
         highTemp: 18.3,
@@ -351,7 +351,7 @@ export const startSept = [
     {
         location: 'Cotopaxi, Ecuador',
         duration: 4,
-        date: '4th Oct 22',
+        date: '4th Oct',
         cumulativeDuration: 33,
         lowTemp: 6.7,
         highTemp: 20.2,
@@ -361,7 +361,7 @@ export const startSept = [
     {
         location: 'Banos, Ecuador',
         duration: 2,
-        date: '6th Oct 22',
+        date: '6th Oct',
         cumulativeDuration: 35,
         lowTemp: 0,
         highTemp: 0,
@@ -371,7 +371,7 @@ export const startSept = [
     {
         location: 'Guayaquil, Ecuador',
         duration: 1,
-        date: '7th Oct 22',
+        date: '7th Oct',
         cumulativeDuration: 36,
         lowTemp: 0,
         highTemp: 0,
@@ -381,7 +381,7 @@ export const startSept = [
     {
         location: 'Galapagos Islands, Ecuador',
         duration: 7,
-        date: '14th Oct 22',
+        date: '14th Oct',
         cumulativeDuration: 43,
         lowTemp: 19.6,
         highTemp: 26,
@@ -391,7 +391,7 @@ export const startSept = [
     {
         location: 'Riobamba, Ecuador',
         duration: 2,
-        date: '16th Oct 22',
+        date: '16th Oct',
         cumulativeDuration: 45,
         lowTemp: 11.2,
         highTemp: 18,
@@ -401,7 +401,7 @@ export const startSept = [
     {
         location: 'Sibambe, Ecuador',
         duration: 1,
-        date: '17th Oct 22',
+        date: '17th Oct',
         cumulativeDuration: 46,
         lowTemp: 0,
         highTemp: 0,
@@ -411,7 +411,7 @@ export const startSept = [
     {
         location: 'Cuenca, Ecuador',
         duration: 3,
-        date: '20th Oct 22',
+        date: '20th Oct',
         cumulativeDuration: 49,
         lowTemp: 0,
         highTemp: 0,
@@ -421,7 +421,7 @@ export const startSept = [
     {
         location: 'Mancora, Peru',
         duration: 4,
-        date: '24th Oct 22',
+        date: '24th Oct',
         cumulativeDuration: 53,
         lowTemp: 16.3,
         highTemp: 23,
@@ -431,7 +431,7 @@ export const startSept = [
     {
         location: 'Trujillo, Peru',
         duration: 2,
-        date: '26th Oct 22',
+        date: '26th Oct',
         cumulativeDuration: 55,
         lowTemp: 15,
         highTemp: 19,
@@ -441,7 +441,7 @@ export const startSept = [
     {
         location: 'Huaraz, Peru',
         duration: 3,
-        date: '29th Oct 22',
+        date: '29th Oct',
         cumulativeDuration: 58,
         lowTemp: 0,
         highTemp: 0,
@@ -451,7 +451,7 @@ export const startSept = [
     {
         location: 'Lima, Peru',
         duration: 3,
-        date: '1st Nov 22',
+        date: '1st Nov',
         cumulativeDuration: 61,
         lowTemp: 15,
         highTemp: 18,
@@ -461,7 +461,7 @@ export const startSept = [
     {
         location: 'Huacachina, Peru',
         duration: 2,
-        date: '3rd Nov 22',
+        date: '3rd Nov',
         cumulativeDuration: 63,
         lowTemp: 16,
         highTemp: 19.6,
@@ -471,7 +471,7 @@ export const startSept = [
     {
         location: 'Nazca, Peru',
         duration: 2,
-        date: '5th Nov 22',
+        date: '5th Nov',
         cumulativeDuration: 65,
         lowTemp: 10.9,
         highTemp: 28.9,
@@ -481,7 +481,7 @@ export const startSept = [
     {
         location: 'Cuzco, Peru',
         duration: 4,
-        date: '9th Nov 22',
+        date: '9th Nov',
         cumulativeDuration: 69,
         lowTemp: 6.9,
         highTemp: 22.2,
@@ -491,7 +491,7 @@ export const startSept = [
     {
         location: 'Machu Picchu, Peru',
         duration: 4,
-        date: '13th Nov 22',
+        date: '13th Nov',
         cumulativeDuration: 73,
         lowTemp: 6.9,
         highTemp: 25,
@@ -501,7 +501,7 @@ export const startSept = [
     {
         location: 'Puno, Peru',
         duration: 2,
-        date: '15th Nov 22',
+        date: '15th Nov',
         cumulativeDuration: 75,
         lowTemp: 3.2,
         highTemp: 20,
@@ -511,7 +511,7 @@ export const startSept = [
     {
         location: 'Copacabana, Bolivia',
         duration: 2,
-        date: '17th Nov 22',
+        date: '17th Nov',
         cumulativeDuration: 77,
         lowTemp: 0.9,
         highTemp: 13.3,
@@ -521,7 +521,7 @@ export const startSept = [
     {
         location: 'Isla del Sol, Bolivia',
         duration: 2,
-        date: '19th Nov 22',
+        date: '19th Nov',
         cumulativeDuration: 79,
         lowTemp: 1.8,
         highTemp: 15.2,
@@ -531,7 +531,7 @@ export const startSept = [
     {
         location: 'La Paz, Bolivia',
         duration: 4,
-        date: '23rd Nov 22',
+        date: '23rd Nov',
         cumulativeDuration: 83,
         lowTemp: 3.2,
         highTemp: 15.4,
@@ -541,7 +541,7 @@ export const startSept = [
     {
         location: 'Sucre, Bolivia',
         duration: 2,
-        date: '25th Nov 22',
+        date: '25th Nov',
         cumulativeDuration: 85,
         lowTemp: 0,
         highTemp: 0,
@@ -551,7 +551,7 @@ export const startSept = [
     {
         location: 'Potosi, Bolivia',
         duration: 2,
-        date: '27th Nov 22',
+        date: '27th Nov',
         cumulativeDuration: 87,
         lowTemp: 5.9,
         highTemp: 21.2,
@@ -561,7 +561,7 @@ export const startSept = [
     {
         location: 'Salar de Uyuni, Bolivia',
         duration: 4,
-        date: '1st Dec 22',
+        date: '1st Dec',
         cumulativeDuration: 91,
         lowTemp: 2.4,
         highTemp: 17.3,
@@ -571,7 +571,7 @@ export const startSept = [
     {
         location: 'San Pedro de Atacama, Chile',
         duration: 4,
-        date: '5th Dec 22',
+        date: '5th Dec',
         cumulativeDuration: 95,
         lowTemp: 4,
         highTemp: 24,
@@ -581,7 +581,7 @@ export const startSept = [
     {
         location: 'Antofagasta, Chile',
         duration: 2,
-        date: '7th Dec 22',
+        date: '7th Dec',
         cumulativeDuration: 97,
         lowTemp: 15.8,
         highTemp: 20.3,
@@ -591,7 +591,7 @@ export const startSept = [
     {
         location: 'Copiapo, Chile',
         duration: 1,
-        date: '8th Dec 22',
+        date: '8th Dec',
         cumulativeDuration: 98,
         lowTemp: 15,
         highTemp: 21,
@@ -601,7 +601,7 @@ export const startSept = [
     {
         location: 'Vina del Mar, Chile',
         duration: 4,
-        date: '12th Dec 22',
+        date: '12th Dec',
         cumulativeDuration: 102,
         lowTemp: 12,
         highTemp: 24,
@@ -611,7 +611,7 @@ export const startSept = [
     {
         location: 'Valparaiso, Chile',
         duration: 2,
-        date: '14th Dec 22',
+        date: '14th Dec',
         cumulativeDuration: 104,
         lowTemp: 11,
         highTemp: 23,
@@ -621,7 +621,7 @@ export const startSept = [
     {
         location: 'Santiago, Chile',
         duration: 4,
-        date: '18th Dec 22',
+        date: '18th Dec',
         cumulativeDuration: 108,
         lowTemp: 11.8,
         highTemp: 30.2,
@@ -631,7 +631,7 @@ export const startSept = [
     {
         location: 'Easter Island, Chile',
         duration: 5,
-        date: '23rd Dec 22',
+        date: '23rd Dec',
         cumulativeDuration: 113,
         lowTemp: 16.1,
         highTemp: 25.7,
@@ -641,7 +641,7 @@ export const startSept = [
     {
         location: 'Mendoza, Argentina',
         duration: 3,
-        date: '26th Dec 22',
+        date: '26th Dec',
         cumulativeDuration: 116,
         lowTemp: 10.7,
         highTemp: 29.4,
@@ -651,7 +651,7 @@ export const startSept = [
     {
         location: 'Cordoba, Argentina',
         duration: 3,
-        date: '29th Dec 22',
+        date: '29th Dec',
         cumulativeDuration: 119,
         lowTemp: 15.4,
         highTemp: 31.5,
@@ -661,7 +661,7 @@ export const startSept = [
     {
         location: 'Alta Gracia, Argentina',
         duration: 1,
-        date: '30th Dec 22',
+        date: '30th Dec',
         cumulativeDuration: 120,
         lowTemp: 18.5,
         highTemp: 34.8,
@@ -671,7 +671,7 @@ export const startSept = [
     {
         location: 'Rosario, Argentina',
         duration: 3,
-        date: '2nd Jan 23',
+        date: '2nd Jan',
         cumulativeDuration: 123,
         lowTemp: 15.5,
         highTemp: 32.3,
@@ -681,7 +681,7 @@ export const startSept = [
     {
         location: 'Buenos Aires, Argentina',
         duration: 5,
-        date: '7th Jan 23',
+        date: '7th Jan',
         cumulativeDuration: 128,
         lowTemp: 23.4,
         highTemp: 33.9,
@@ -691,7 +691,7 @@ export const startSept = [
     {
         location: 'Colonia, Uruguay',
         duration: 2,
-        date: '9th Jan 23',
+        date: '9th Jan',
         cumulativeDuration: 130,
         lowTemp: 21,
         highTemp: 29,
@@ -701,7 +701,7 @@ export const startSept = [
     {
         location: 'Montevideo, Uruguay',
         duration: 4,
-        date: '13th Jan 23',
+        date: '13th Jan',
         cumulativeDuration: 134,
         lowTemp: 16.9,
         highTemp: 26.8,
@@ -711,7 +711,7 @@ export const startSept = [
     {
         location: 'Piriapolis, Uruguay',
         duration: 3,
-        date: '16th Jan 23',
+        date: '16th Jan',
         cumulativeDuration: 137,
         lowTemp: 20.9,
         highTemp: 32.8,
@@ -721,7 +721,7 @@ export const startSept = [
     {
         location: 'Punta Del Este, Uruguay',
         duration: 4,
-        date: '20th Jan 23',
+        date: '20th Jan',
         cumulativeDuration: 141,
         lowTemp: 20.2,
         highTemp: 33.4,
@@ -731,7 +731,7 @@ export const startSept = [
     {
         location: 'Cabo Polonio, Uruguay',
         duration: 2,
-        date: '22nd Jan 23',
+        date: '22nd Jan',
         cumulativeDuration: 143,
         lowTemp: 19.6,
         highTemp: 27.9,
@@ -741,7 +741,7 @@ export const startSept = [
     {
         location: 'Porto Alegre, Brazil',
         duration: 2,
-        date: '24th Jan 23',
+        date: '24th Jan',
         cumulativeDuration: 145,
         lowTemp: 20,
         highTemp: 35,
@@ -751,7 +751,7 @@ export const startSept = [
     {
         location: 'Iguacu Falls, Brazil',
         duration: 2,
-        date: '26th Jan 23',
+        date: '26th Jan',
         cumulativeDuration: 147,
         lowTemp: 21.5,
         highTemp: 34.6,
@@ -761,7 +761,7 @@ export const startSept = [
     {
         location: 'Curitiba, Brazil',
         duration: 2,
-        date: '28th Jan 23',
+        date: '28th Jan',
         cumulativeDuration: 149,
         lowTemp: 13.7,
         highTemp: 31,
@@ -771,7 +771,7 @@ export const startSept = [
     {
         location: 'Ilha do Mel, Brazil',
         duration: 3,
-        date: '31st Jan 23',
+        date: '31st Jan',
         cumulativeDuration: 152,
         lowTemp: 22.7,
         highTemp: 30.5,
@@ -781,7 +781,7 @@ export const startSept = [
     {
         location: 'Sao Paulo, Brazil',
         duration: 3,
-        date: '3rd Feb 23',
+        date: '3rd Feb',
         cumulativeDuration: 155,
         lowTemp: 20,
         highTemp: 28,
@@ -791,7 +791,7 @@ export const startSept = [
     {
         location: 'Paraty, Brazil',
         duration: 3,
-        date: '6th Feb 23',
+        date: '6th Feb',
         cumulativeDuration: 158,
         lowTemp: 19.7,
         highTemp: 32,
@@ -801,7 +801,7 @@ export const startSept = [
     {
         location: 'Ihla Grande, Brazil',
         duration: 3,
-        date: '9th Feb 23',
+        date: '9th Feb',
         cumulativeDuration: 161,
         lowTemp: 23.7,
         highTemp: 37,
@@ -811,7 +811,7 @@ export const startSept = [
     {
         location: 'Petropolis, Brazil',
         duration: 2,
-        date: '11th Feb 23',
+        date: '11th Feb',
         cumulativeDuration: 163,
         lowTemp: 22.6,
         highTemp: 31.6,
@@ -821,7 +821,7 @@ export const startSept = [
     {
         location: 'Rio de Janeiro, Brazil',
         duration: 6,
-        date: '17th Feb 23',
+        date: '17th Feb',
         cumulativeDuration: 169,
         lowTemp: 25.3,
         highTemp: 33,
@@ -834,7 +834,7 @@ export const midSept = [
     {
         location: 'Cartagena, Colombia',
         duration: 3,
-        date: '18th Sept 22',
+        date: '18th Sept',
         cumulativeDuration: 3,
         lowTemp: 23.6,
         highTemp: 30.2,
@@ -844,7 +844,7 @@ export const midSept = [
     {
         location: 'Parque Nacional Tayrona, Colombia',
         duration: 4,
-        date: '22nd Sept 22',
+        date: '22nd Sept',
         cumulativeDuration: 7,
         lowTemp: 23.9,
         highTemp: 33.6,
@@ -854,7 +854,7 @@ export const midSept = [
     {
         location: 'Mompos, Colombia',
         duration: 2,
-        date: '24th Sept 22',
+        date: '24th Sept',
         cumulativeDuration: 9,
         lowTemp: 22.2,
         highTemp: 29.1,
@@ -864,7 +864,7 @@ export const midSept = [
     {
         location: 'San Gil, Colombia',
         duration: 3,
-        date: '27th Sept 22',
+        date: '27th Sept',
         cumulativeDuration: 12,
         lowTemp: 0,
         highTemp: 0,
@@ -874,7 +874,7 @@ export const midSept = [
     {
         location: 'Villa de Leyva, Colombia',
         duration: 1,
-        date: '28th Sept 22',
+        date: '28th Sept',
         cumulativeDuration: 13,
         lowTemp: 8,
         highTemp: 19,
@@ -884,7 +884,7 @@ export const midSept = [
     {
         location: 'Bogota, Colombia',
         duration: 3,
-        date: '1st Oct 22',
+        date: '1st Oct',
         cumulativeDuration: 16,
         lowTemp: 0,
         highTemp: 0,
@@ -894,7 +894,7 @@ export const midSept = [
     {
         location: 'Salento, Colombia',
         duration: 2,
-        date: '3rd Oct 22',
+        date: '3rd Oct',
         cumulativeDuration: 18,
         lowTemp: 16,
         highTemp: 27.9,
@@ -904,7 +904,7 @@ export const midSept = [
     {
         location: 'Cali, Colombia',
         duration: 2,
-        date: '5th Oct 22',
+        date: '5th Oct',
         cumulativeDuration: 20,
         lowTemp: 17.6,
         highTemp: 29.4,
@@ -914,7 +914,7 @@ export const midSept = [
     {
         location: 'Popayan, Colombia',
         duration: 2,
-        date: '7th Oct 22',
+        date: '7th Oct',
         cumulativeDuration: 22,
         lowTemp: 14.8,
         highTemp: 23,
@@ -924,7 +924,7 @@ export const midSept = [
     {
         location: 'Otavalo, Ecuador',
         duration: 3,
-        date: '10th Oct 22',
+        date: '10th Oct',
         cumulativeDuration: 25,
         lowTemp: 6.6,
         highTemp: 18.3,
@@ -934,7 +934,7 @@ export const midSept = [
     {
         location: 'Quito, Ecuador',
         duration: 4,
-        date: '14th Oct 22',
+        date: '14th Oct',
         cumulativeDuration: 29,
         lowTemp: 9.2,
         highTemp: 19.2,
@@ -944,7 +944,7 @@ export const midSept = [
     {
         location: 'Cotopaxi, Ecuador',
         duration: 4,
-        date: '18th Oct 22',
+        date: '18th Oct',
         cumulativeDuration: 33,
         lowTemp: 10.2,
         highTemp: 18.2,
@@ -954,7 +954,7 @@ export const midSept = [
     {
         location: 'Banos, Ecuador',
         duration: 2,
-        date: '20th Oct 22',
+        date: '20th Oct',
         cumulativeDuration: 35,
         lowTemp: 0,
         highTemp: 0,
@@ -964,7 +964,7 @@ export const midSept = [
     {
         location: 'Guayaquil, Ecuador',
         duration: 1,
-        date: '21st Oct 22',
+        date: '21st Oct',
         cumulativeDuration: 36,
         lowTemp: 0,
         highTemp: 0,
@@ -974,7 +974,7 @@ export const midSept = [
     {
         location: 'Galapagos Islands, Ecuador',
         duration: 7,
-        date: '28th Oct 22',
+        date: '28th Oct',
         cumulativeDuration: 43,
         lowTemp: 19.2,
         highTemp: 26,
@@ -984,7 +984,7 @@ export const midSept = [
     {
         location: 'Riobamba, Ecuador',
         duration: 2,
-        date: '30th Oct 22',
+        date: '30th Oct',
         cumulativeDuration: 45,
         lowTemp: 8.2,
         highTemp: 21.7,
@@ -994,7 +994,7 @@ export const midSept = [
     {
         location: 'Sibambe, Ecuador',
         duration: 1,
-        date: '31st Oct 22',
+        date: '31st Oct',
         cumulativeDuration: 46,
         lowTemp: 0,
         highTemp: 0,
@@ -1004,7 +1004,7 @@ export const midSept = [
     {
         location: 'Cuenca, Ecuador',
         duration: 3,
-        date: '3rd Nov 22',
+        date: '3rd Nov',
         cumulativeDuration: 49,
         lowTemp: 0,
         highTemp: 0,
@@ -1014,7 +1014,7 @@ export const midSept = [
     {
         location: 'Mancora, Peru',
         duration: 4,
-        date: '7th Nov 22',
+        date: '7th Nov',
         cumulativeDuration: 53,
         lowTemp: 13,
         highTemp: 23.2,
@@ -1024,7 +1024,7 @@ export const midSept = [
     {
         location: 'Trujillo, Peru',
         duration: 2,
-        date: '9th Nov 22',
+        date: '9th Nov',
         cumulativeDuration: 55,
         lowTemp: 16,
         highTemp: 20,
@@ -1034,7 +1034,7 @@ export const midSept = [
     {
         location: 'Huaraz, Peru',
         duration: 3,
-        date: '12th Nov 22',
+        date: '12th Nov',
         cumulativeDuration: 58,
         lowTemp: 0,
         highTemp: 0,
@@ -1044,7 +1044,7 @@ export const midSept = [
     {
         location: 'Lima, Peru',
         duration: 3,
-        date: '15th Nov 22',
+        date: '15th Nov',
         cumulativeDuration: 61,
         lowTemp: 17,
         highTemp: 22,
@@ -1054,7 +1054,7 @@ export const midSept = [
     {
         location: 'Huacachina, Peru',
         duration: 2,
-        date: '17th Nov 22',
+        date: '17th Nov',
         cumulativeDuration: 63,
         lowTemp: 14,
         highTemp: 21,
@@ -1064,7 +1064,7 @@ export const midSept = [
     {
         location: 'Nazca, Peru',
         duration: 2,
-        date: '19th Nov 22',
+        date: '19th Nov',
         cumulativeDuration: 65,
         lowTemp: 13.6,
         highTemp: 29.2,
@@ -1074,7 +1074,7 @@ export const midSept = [
     {
         location: 'Cuzco, Peru',
         duration: 4,
-        date: '23rd Nov 22',
+        date: '23rd Nov',
         cumulativeDuration: 69,
         lowTemp: 8,
         highTemp: 20,
@@ -1084,7 +1084,7 @@ export const midSept = [
     {
         location: 'Machu Picchu, Peru',
         duration: 4,
-        date: '27th Nov 22',
+        date: '27th Nov',
         cumulativeDuration: 73,
         lowTemp: 10.8,
         highTemp: 21.4,
@@ -1094,7 +1094,7 @@ export const midSept = [
     {
         location: 'Puno, Peru',
         duration: 2,
-        date: '29th Nov 22',
+        date: '29th Nov',
         cumulativeDuration: 75,
         lowTemp: 3.6,
         highTemp: 20,
@@ -1104,7 +1104,7 @@ export const midSept = [
     {
         location: 'Copacabana, Bolivia',
         duration: 2,
-        date: '1st Dec 22',
+        date: '1st Dec',
         cumulativeDuration: 77,
         lowTemp: 1,
         highTemp: 14.8,
@@ -1114,7 +1114,7 @@ export const midSept = [
     {
         location: 'Isla del Sol, Bolivia',
         duration: 2,
-        date: '3rd Dec 22',
+        date: '3rd Dec',
         cumulativeDuration: 79,
         lowTemp: 0.4,
         highTemp: 12.6,
@@ -1124,7 +1124,7 @@ export const midSept = [
     {
         location: 'La Paz, Bolivia',
         duration: 4,
-        date: '7th Dec 22',
+        date: '7th Dec',
         cumulativeDuration: 83,
         lowTemp: 4.6,
         highTemp: 13,
@@ -1134,7 +1134,7 @@ export const midSept = [
     {
         location: 'Sucre, Bolivia',
         duration: 2,
-        date: '9th Dec 22',
+        date: '9th Dec',
         cumulativeDuration: 85,
         lowTemp: 0,
         highTemp: 0,
@@ -1144,7 +1144,7 @@ export const midSept = [
     {
         location: 'Potosi, Bolivia',
         duration: 2,
-        date: '11th Dec 22',
+        date: '11th Dec',
         cumulativeDuration: 87,
         lowTemp: 8.8,
         highTemp: 16.2,
@@ -1154,7 +1154,7 @@ export const midSept = [
     {
         location: 'Salar de Uyuni, Bolivia',
         duration: 4,
-        date: '15th Dec 22',
+        date: '15th Dec',
         cumulativeDuration: 91,
         lowTemp: 6.4,
         highTemp: 19.7,
@@ -1164,7 +1164,7 @@ export const midSept = [
     {
         location: 'San Pedro de Atacama, Chile',
         duration: 4,
-        date: '19th Dec 22',
+        date: '19th Dec',
         cumulativeDuration: 95,
         lowTemp: 8,
         highTemp: 36.9,
@@ -1174,7 +1174,7 @@ export const midSept = [
     {
         location: 'Antofagasta, Chile',
         duration: 2,
-        date: '21st Dec 22',
+        date: '21st Dec',
         cumulativeDuration: 97,
         lowTemp: 18,
         highTemp: 22.4,
@@ -1184,7 +1184,7 @@ export const midSept = [
     {
         location: 'Copiapo, Chile',
         duration: 1,
-        date: '22nd Dec 22',
+        date: '22nd Dec',
         cumulativeDuration: 98,
         lowTemp: 15,
         highTemp: 22.2,
@@ -1194,7 +1194,7 @@ export const midSept = [
     {
         location: 'Vina del Mar, Chile',
         duration: 4,
-        date: '26th Dec 22',
+        date: '26th Dec',
         cumulativeDuration: 102,
         lowTemp: 14.1,
         highTemp: 23,
@@ -1204,7 +1204,7 @@ export const midSept = [
     {
         location: 'Valparaiso, Chile',
         duration: 2,
-        date: '28th Dec 22',
+        date: '28th Dec',
         cumulativeDuration: 104,
         lowTemp: 12,
         highTemp: 20,
@@ -1214,7 +1214,7 @@ export const midSept = [
     {
         location: 'Santiago, Chile',
         duration: 4,
-        date: '1st Jan 23',
+        date: '1st Jan',
         cumulativeDuration: 108,
         lowTemp: 12.3,
         highTemp: 30.1,
@@ -1224,7 +1224,7 @@ export const midSept = [
     {
         location: 'Easter Island, Chile',
         duration: 5,
-        date: '6th Jan 23',
+        date: '6th Jan',
         cumulativeDuration: 113,
         lowTemp: 17.5,
         highTemp: 26.6,
@@ -1234,7 +1234,7 @@ export const midSept = [
     {
         location: 'Mendoza, Argentina',
         duration: 3,
-        date: '9th Jan 23',
+        date: '9th Jan',
         cumulativeDuration: 116,
         lowTemp: 20.3,
         highTemp: 37,
@@ -1244,7 +1244,7 @@ export const midSept = [
     {
         location: 'Cordoba, Argentina',
         duration: 3,
-        date: '12th Jan 23',
+        date: '12th Jan',
         cumulativeDuration: 119,
         lowTemp: 17.2,
         highTemp: 29,
@@ -1254,7 +1254,7 @@ export const midSept = [
     {
         location: 'Alta Gracia, Argentina',
         duration: 1,
-        date: '13th Jan 23',
+        date: '13th Jan',
         cumulativeDuration: 120,
         lowTemp: 13.7,
         highTemp: 29.1,
@@ -1264,7 +1264,7 @@ export const midSept = [
     {
         location: 'Rosario, Argentina',
         duration: 3,
-        date: '16th Jan 23',
+        date: '16th Jan',
         cumulativeDuration: 123,
         lowTemp: 20.3,
         highTemp: 37.3,
@@ -1274,7 +1274,7 @@ export const midSept = [
     {
         location: 'Buenos Aires, Argentina',
         duration: 5,
-        date: '21st Jan 23',
+        date: '21st Jan',
         cumulativeDuration: 128,
         lowTemp: 21.8,
         highTemp: 33,
@@ -1284,7 +1284,7 @@ export const midSept = [
     {
         location: 'Colonia, Uruguay',
         duration: 2,
-        date: '23rd Jan 23',
+        date: '23rd Jan',
         cumulativeDuration: 130,
         lowTemp: 21.6,
         highTemp: 30,
@@ -1294,7 +1294,7 @@ export const midSept = [
     {
         location: 'Montevideo, Uruguay',
         duration: 4,
-        date: '27th Jan 23',
+        date: '27th Jan',
         cumulativeDuration: 134,
         lowTemp: 22.6,
         highTemp: 32.5,
@@ -1304,7 +1304,7 @@ export const midSept = [
     {
         location: 'Piriapolis, Uruguay',
         duration: 3,
-        date: '30th Jan 23',
+        date: '30th Jan',
         cumulativeDuration: 137,
         lowTemp: 21.7,
         highTemp: 27.9,
@@ -1314,7 +1314,7 @@ export const midSept = [
     {
         location: 'Punta Del Este, Uruguay',
         duration: 4,
-        date: '3rd Feb 23',
+        date: '3rd Feb',
         cumulativeDuration: 141,
         lowTemp: 21.4,
         highTemp: 25.3,
@@ -1324,7 +1324,7 @@ export const midSept = [
     {
         location: 'Cabo Polonio, Uruguay',
         duration: 2,
-        date: '5th Feb 23',
+        date: '5th Feb',
         cumulativeDuration: 143,
         lowTemp: 18.1,
         highTemp: 25.3,
@@ -1334,7 +1334,7 @@ export const midSept = [
     {
         location: 'Porto Alegre, Brazil',
         duration: 2,
-        date: '7th Feb 23',
+        date: '7th Feb',
         cumulativeDuration: 145,
         lowTemp: 20,
         highTemp: 33,
@@ -1344,7 +1344,7 @@ export const midSept = [
     {
         location: 'Iguacu Falls, Brazil',
         duration: 2,
-        date: '9th Feb 23',
+        date: '9th Feb',
         cumulativeDuration: 147,
         lowTemp: 19.5,
         highTemp: 34.5,
@@ -1354,7 +1354,7 @@ export const midSept = [
     {
         location: 'Curitiba, Brazil',
         duration: 2,
-        date: '11th Feb 23',
+        date: '11th Feb',
         cumulativeDuration: 149,
         lowTemp: 18.6,
         highTemp: 26.1,
@@ -1364,7 +1364,7 @@ export const midSept = [
     {
         location: 'Ilha do Mel, Brazil',
         duration: 3,
-        date: '14th Feb 23',
+        date: '14th Feb',
         cumulativeDuration: 152,
         lowTemp: 22.7,
         highTemp: 31.4,
@@ -1374,7 +1374,7 @@ export const midSept = [
     {
         location: 'Sao Paulo, Brazil',
         duration: 3,
-        date: '17th Feb 23',
+        date: '17th Feb',
         cumulativeDuration: 155,
         lowTemp: 19.7,
         highTemp: 28.1,
@@ -1384,7 +1384,7 @@ export const midSept = [
     {
         location: 'Paraty, Brazil',
         duration: 3,
-        date: '20th Feb 23',
+        date: '20th Feb',
         cumulativeDuration: 158,
         lowTemp: 18.9,
         highTemp: 32,
@@ -1394,7 +1394,7 @@ export const midSept = [
     {
         location: 'Ihla Grande, Brazil',
         duration: 3,
-        date: '23rd Feb 23',
+        date: '23rd Feb',
         cumulativeDuration: 161,
         lowTemp: 24.5,
         highTemp: 38,
@@ -1404,7 +1404,7 @@ export const midSept = [
     {
         location: 'Petropolis, Brazil',
         duration: 2,
-        date: '25th Feb 23',
+        date: '25th Feb',
         cumulativeDuration: 163,
         lowTemp: 22.7,
         highTemp: 34.3,
@@ -1414,7 +1414,7 @@ export const midSept = [
     {
         location: 'Rio de Janeiro, Brazil',
         duration: 6,
-        date: '3rd Mar 23',
+        date: '3rd Mar',
         cumulativeDuration: 169,
         lowTemp: 24.3,
         highTemp: 33.2,
@@ -1427,7 +1427,7 @@ export const midAugust = [
     {
         location: 'Cartagena, Colombia',
         duration: 3,
-        date: '18th Aug 22',
+        date: '18th Aug',
         cumulativeDuration: 3,
         lowTemp: 26.6,
         highTemp: 33.1,
@@ -1437,7 +1437,7 @@ export const midAugust = [
     {
         location: 'Parque Nacional Tayrona, Colombia',
         duration: 4,
-        date: '22nd Aug 22',
+        date: '22nd Aug',
         cumulativeDuration: 7,
         lowTemp: 23,
         highTemp: 34.5,
@@ -1447,7 +1447,7 @@ export const midAugust = [
     {
         location: 'Mompos, Colombia',
         duration: 2,
-        date: '24th Aug 22',
+        date: '24th Aug',
         cumulativeDuration: 9,
         lowTemp: 22.3,
         highTemp: 29.7,
@@ -1457,7 +1457,7 @@ export const midAugust = [
     {
         location: 'San Gil, Colombia',
         duration: 3,
-        date: '27th Aug 22',
+        date: '27th Aug',
         cumulativeDuration: 12,
         lowTemp: 0,
         highTemp: 0,
@@ -1467,7 +1467,7 @@ export const midAugust = [
     {
         location: 'Villa de Leyva, Colombia',
         duration: 1,
-        date: '28th Aug 22',
+        date: '28th Aug',
         cumulativeDuration: 13,
         lowTemp: 9.1,
         highTemp: 18.8,
@@ -1477,7 +1477,7 @@ export const midAugust = [
     {
         location: 'Bogota, Colombia',
         duration: 3,
-        date: '31st Aug 22',
+        date: '31st Aug',
         cumulativeDuration: 16,
         lowTemp: 0,
         highTemp: 0,
@@ -1487,7 +1487,7 @@ export const midAugust = [
     {
         location: 'Salento, Colombia',
         duration: 2,
-        date: '2nd Sept 22',
+        date: '2nd Sept',
         cumulativeDuration: 18,
         lowTemp: 17.8,
         highTemp: 26.2,
@@ -1497,7 +1497,7 @@ export const midAugust = [
     {
         location: 'Cali, Colombia',
         duration: 2,
-        date: '4th Sept 22',
+        date: '4th Sept',
         cumulativeDuration: 20,
         lowTemp: 19.3,
         highTemp: 32.4,
@@ -1507,7 +1507,7 @@ export const midAugust = [
     {
         location: 'Popayan, Colombia',
         duration: 2,
-        date: '6th Sept 22',
+        date: '6th Sept',
         cumulativeDuration: 22,
         lowTemp: 14.4,
         highTemp: 22,
@@ -1517,7 +1517,7 @@ export const midAugust = [
     {
         location: 'Otavalo, Ecuador',
         duration: 3,
-        date: '9th Sept 22',
+        date: '9th Sept',
         cumulativeDuration: 25,
         lowTemp: 6.3,
         highTemp: 22.2,
@@ -1527,7 +1527,7 @@ export const midAugust = [
     {
         location: 'Quito, Ecuador',
         duration: 4,
-        date: '13th Sept 22',
+        date: '13th Sept',
         cumulativeDuration: 29,
         lowTemp: 6.2,
         highTemp: 22.2,
@@ -1537,7 +1537,7 @@ export const midAugust = [
     {
         location: 'Cotopaxi, Ecuador',
         duration: 4,
-        date: '17th Sept 22',
+        date: '17th Sept',
         cumulativeDuration: 33,
         lowTemp: 9.1,
         highTemp: 18.8,
@@ -1547,7 +1547,7 @@ export const midAugust = [
     {
         location: 'Banos, Ecuador',
         duration: 2,
-        date: '19th Sept 22',
+        date: '19th Sept',
         cumulativeDuration: 35,
         lowTemp: 0,
         highTemp: 0,
@@ -1557,7 +1557,7 @@ export const midAugust = [
     {
         location: 'Guayaquil, Ecuador',
         duration: 1,
-        date: '20th Sept 22',
+        date: '20th Sept',
         cumulativeDuration: 36,
         lowTemp: 0,
         highTemp: 0,
@@ -1567,7 +1567,7 @@ export const midAugust = [
     {
         location: 'Galapagos Islands, Ecuador',
         duration: 7,
-        date: '27th Sept 22',
+        date: '27th Sept',
         cumulativeDuration: 43,
         lowTemp: 19,
         highTemp: 24,
@@ -1577,7 +1577,7 @@ export const midAugust = [
     {
         location: 'Riobamba, Ecuador',
         duration: 2,
-        date: '29th Sept 22',
+        date: '29th Sept',
         cumulativeDuration: 45,
         lowTemp: 10.3,
         highTemp: 21.6,
@@ -1587,7 +1587,7 @@ export const midAugust = [
     {
         location: 'Sibambe, Ecuador',
         duration: 1,
-        date: '30th Sept 22',
+        date: '30th Sept',
         cumulativeDuration: 46,
         lowTemp: 0,
         highTemp: 0,
@@ -1597,7 +1597,7 @@ export const midAugust = [
     {
         location: 'Cuenca, Ecuador',
         duration: 3,
-        date: '3rd Oct 22',
+        date: '3rd Oct',
         cumulativeDuration: 49,
         lowTemp: 0,
         highTemp: 0,
@@ -1607,7 +1607,7 @@ export const midAugust = [
     {
         location: 'Mancora, Peru',
         duration: 4,
-        date: '7th Oct 22',
+        date: '7th Oct',
         cumulativeDuration: 53,
         lowTemp: 13.8,
         highTemp: 23.5,
@@ -1617,7 +1617,7 @@ export const midAugust = [
     {
         location: 'Trujillo, Peru',
         duration: 2,
-        date: '9th Oct 22',
+        date: '9th Oct',
         cumulativeDuration: 55,
         lowTemp: 14,
         highTemp: 18,
@@ -1627,7 +1627,7 @@ export const midAugust = [
     {
         location: 'Huaraz, Peru',
         duration: 3,
-        date: '12th Oct 22',
+        date: '12th Oct',
         cumulativeDuration: 58,
         lowTemp: 0,
         highTemp: 0,
@@ -1637,7 +1637,7 @@ export const midAugust = [
     {
         location: 'Lima, Peru',
         duration: 3,
-        date: '15th Oct 22',
+        date: '15th Oct',
         cumulativeDuration: 61,
         lowTemp: 14,
         highTemp: 18,
@@ -1647,7 +1647,7 @@ export const midAugust = [
     {
         location: 'Huacachina, Peru',
         duration: 2,
-        date: '17th Oct 22',
+        date: '17th Oct',
         cumulativeDuration: 63,
         lowTemp: 11.4,
         highTemp: 20.5,
@@ -1657,7 +1657,7 @@ export const midAugust = [
     {
         location: 'Nazca, Peru',
         duration: 2,
-        date: '19th Oct 22',
+        date: '19th Oct',
         cumulativeDuration: 65,
         lowTemp: 11,
         highTemp: 26,
@@ -1667,7 +1667,7 @@ export const midAugust = [
     {
         location: 'Cuzco, Peru',
         duration: 4,
-        date: '23rd Oct 22',
+        date: '23rd Oct',
         cumulativeDuration: 69,
         lowTemp: 8.6,
         highTemp: 25.3,
@@ -1677,7 +1677,7 @@ export const midAugust = [
     {
         location: 'Machu Picchu, Peru',
         duration: 4,
-        date: '27th Oct 22',
+        date: '27th Oct',
         cumulativeDuration: 73,
         lowTemp: 8.5,
         highTemp: 20,
@@ -1687,7 +1687,7 @@ export const midAugust = [
     {
         location: 'Puno, Peru',
         duration: 2,
-        date: '29th Oct 22',
+        date: '29th Oct',
         cumulativeDuration: 75,
         lowTemp: 1.3,
         highTemp: 20.4,
@@ -1697,7 +1697,7 @@ export const midAugust = [
     {
         location: 'Copacabana, Bolivia',
         duration: 2,
-        date: '31st Oct 22',
+        date: '31st Oct',
         cumulativeDuration: 77,
         lowTemp: 2,
         highTemp: 14.6,
@@ -1707,7 +1707,7 @@ export const midAugust = [
     {
         location: 'Isla del Sol, Bolivia',
         duration: 2,
-        date: '2nd Nov 22',
+        date: '2nd Nov',
         cumulativeDuration: 79,
         lowTemp: 0.1,
         highTemp: 12.8,
@@ -1717,7 +1717,7 @@ export const midAugust = [
     {
         location: 'La Paz, Bolivia',
         duration: 4,
-        date: '6th Nov 22',
+        date: '6th Nov',
         cumulativeDuration: 83,
         lowTemp: -3.5,
         highTemp: 20.2,
@@ -1727,7 +1727,7 @@ export const midAugust = [
     {
         location: 'Sucre, Bolivia',
         duration: 2,
-        date: '8th Nov 22',
+        date: '8th Nov',
         cumulativeDuration: 85,
         lowTemp: 0,
         highTemp: 0,
@@ -1737,7 +1737,7 @@ export const midAugust = [
     {
         location: 'Potosi, Bolivia',
         duration: 2,
-        date: '10th Nov 22',
+        date: '10th Nov',
         cumulativeDuration: 87,
         lowTemp: 1.9,
         highTemp: 15.8,
@@ -1747,7 +1747,7 @@ export const midAugust = [
     {
         location: 'Salar de Uyuni, Bolivia',
         duration: 4,
-        date: '14th Nov 22',
+        date: '14th Nov',
         cumulativeDuration: 91,
         lowTemp: 3.5,
         highTemp: 19.4,
@@ -1757,7 +1757,7 @@ export const midAugust = [
     {
         location: 'San Pedro de Atacama, Chile',
         duration: 4,
-        date: '18th Nov 22',
+        date: '18th Nov',
         cumulativeDuration: 95,
         lowTemp: 7,
         highTemp: 25,
@@ -1767,7 +1767,7 @@ export const midAugust = [
     {
         location: 'Antofagasta, Chile',
         duration: 2,
-        date: '20th Nov 22',
+        date: '20th Nov',
         cumulativeDuration: 97,
         lowTemp: 15.5,
         highTemp: 19.3,
@@ -1777,7 +1777,7 @@ export const midAugust = [
     {
         location: 'Copiapo, Chile',
         duration: 1,
-        date: '21st Nov 22',
+        date: '21st Nov',
         cumulativeDuration: 98,
         lowTemp: 14,
         highTemp: 18,
@@ -1787,7 +1787,7 @@ export const midAugust = [
     {
         location: 'Vina del Mar, Chile',
         duration: 4,
-        date: '25th Nov 22',
+        date: '25th Nov',
         cumulativeDuration: 102,
         lowTemp: 12,
         highTemp: 17,
@@ -1797,7 +1797,7 @@ export const midAugust = [
     {
         location: 'Valparaiso, Chile',
         duration: 2,
-        date: '27th Nov 22',
+        date: '27th Nov',
         cumulativeDuration: 104,
         lowTemp: 13,
         highTemp: 18,
@@ -1807,7 +1807,7 @@ export const midAugust = [
     {
         location: 'Santiago, Chile',
         duration: 4,
-        date: '1st Dec 22',
+        date: '1st Dec',
         cumulativeDuration: 108,
         lowTemp: 11.6,
         highTemp: 29.2,
@@ -1817,7 +1817,7 @@ export const midAugust = [
     {
         location: 'Easter Island, Chile',
         duration: 5,
-        date: '6th Dec 22',
+        date: '6th Dec',
         cumulativeDuration: 113,
         lowTemp: 18.6,
         highTemp: 26.4,
@@ -1827,7 +1827,7 @@ export const midAugust = [
     {
         location: 'Mendoza, Argentina',
         duration: 3,
-        date: '9th Dec 22',
+        date: '9th Dec',
         cumulativeDuration: 116,
         lowTemp: 21.5,
         highTemp: 36.8,
@@ -1837,7 +1837,7 @@ export const midAugust = [
     {
         location: 'Cordoba, Argentina',
         duration: 3,
-        date: '12th Dec 22',
+        date: '12th Dec',
         cumulativeDuration: 119,
         lowTemp: 22.8,
         highTemp: 39.5,
@@ -1847,7 +1847,7 @@ export const midAugust = [
     {
         location: 'Alta Gracia, Argentina',
         duration: 1,
-        date: '13th Dec 22',
+        date: '13th Dec',
         cumulativeDuration: 120,
         lowTemp: 17.4,
         highTemp: 35,
@@ -1857,7 +1857,7 @@ export const midAugust = [
     {
         location: 'Rosario, Argentina',
         duration: 3,
-        date: '16th Dec 22',
+        date: '16th Dec',
         cumulativeDuration: 123,
         lowTemp: 15.2,
         highTemp: 32.6,
@@ -1867,7 +1867,7 @@ export const midAugust = [
     {
         location: 'Buenos Aires, Argentina',
         duration: 5,
-        date: '21st Dec 22',
+        date: '21st Dec',
         cumulativeDuration: 128,
         lowTemp: 21.4,
         highTemp: 31,
@@ -1877,7 +1877,7 @@ export const midAugust = [
     {
         location: 'Colonia, Uruguay',
         duration: 2,
-        date: '23rd Dec 22',
+        date: '23rd Dec',
         cumulativeDuration: 130,
         lowTemp: 20,
         highTemp: 25.5,
@@ -1887,7 +1887,7 @@ export const midAugust = [
     {
         location: 'Montevideo, Uruguay',
         duration: 4,
-        date: '27th Dec 22',
+        date: '27th Dec',
         cumulativeDuration: 134,
         lowTemp: 13.6,
         highTemp: 28.7,
@@ -1897,7 +1897,7 @@ export const midAugust = [
     {
         location: 'Piriapolis, Uruguay',
         duration: 3,
-        date: '30th Dec 22',
+        date: '30th Dec',
         cumulativeDuration: 137,
         lowTemp: 16.3,
         highTemp: 31.5,
@@ -1907,7 +1907,7 @@ export const midAugust = [
     {
         location: 'Punta Del Este, Uruguay',
         duration: 4,
-        date: '3rd Jan 23',
+        date: '3rd Jan',
         cumulativeDuration: 141,
         lowTemp: 17.5,
         highTemp: 29,
@@ -1917,7 +1917,7 @@ export const midAugust = [
     {
         location: 'Cabo Polonio, Uruguay',
         duration: 2,
-        date: '5th Jan 23',
+        date: '5th Jan',
         cumulativeDuration: 143,
         lowTemp: 13.1,
         highTemp: 26.8,
@@ -1927,7 +1927,7 @@ export const midAugust = [
     {
         location: 'Porto Alegre, Brazil',
         duration: 2,
-        date: '7th Jan 23',
+        date: '7th Jan',
         cumulativeDuration: 145,
         lowTemp: 16,
         highTemp: 30,
@@ -1937,7 +1937,7 @@ export const midAugust = [
     {
         location: 'Iguacu Falls, Brazil',
         duration: 2,
-        date: '9th Jan 23',
+        date: '9th Jan',
         cumulativeDuration: 147,
         lowTemp: 20,
         highTemp: 30.6,
@@ -1947,7 +1947,7 @@ export const midAugust = [
     {
         location: 'Curitiba, Brazil',
         duration: 2,
-        date: '11th Jan 23',
+        date: '11th Jan',
         cumulativeDuration: 149,
         lowTemp: 18,
         highTemp: 26.1,
@@ -1957,7 +1957,7 @@ export const midAugust = [
     {
         location: 'Ilha do Mel, Brazil',
         duration: 3,
-        date: '14th Jan 23',
+        date: '14th Jan',
         cumulativeDuration: 152,
         lowTemp: 23,
         highTemp: 32.3,
@@ -1967,7 +1967,7 @@ export const midAugust = [
     {
         location: 'Sao Paulo, Brazil',
         duration: 3,
-        date: '17th Jan 23',
+        date: '17th Jan',
         cumulativeDuration: 155,
         lowTemp: 20.9,
         highTemp: 29.6,
@@ -1977,7 +1977,7 @@ export const midAugust = [
     {
         location: 'Paraty, Brazil',
         duration: 3,
-        date: '20th Jan 23',
+        date: '20th Jan',
         cumulativeDuration: 158,
         lowTemp: 19.5,
         highTemp: 24,
@@ -1987,7 +1987,7 @@ export const midAugust = [
     {
         location: 'Ihla Grande, Brazil',
         duration: 3,
-        date: '23rd Jan 23',
+        date: '23rd Jan',
         cumulativeDuration: 161,
         lowTemp: 24.6,
         highTemp: 37,
@@ -1997,7 +1997,7 @@ export const midAugust = [
     {
         location: 'Petropolis, Brazil',
         duration: 2,
-        date: '25th Jan 23',
+        date: '25th Jan',
         cumulativeDuration: 163,
         lowTemp: 21.6,
         highTemp: 28.4,
@@ -2007,7 +2007,7 @@ export const midAugust = [
     {
         location: 'Rio de Janeiro, Brazil',
         duration: 6,
-        date: '31st Jan 23',
+        date: '31st Jan',
         cumulativeDuration: 169,
         lowTemp: 24.1,
         highTemp: 32.9,

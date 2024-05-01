@@ -1,5 +1,6 @@
 import React from 'react'
-import TableCell, { TableCellProps } from '@mui/material/TableCell'
+import { TableCellProps } from '@mui/material/TableCell'
+import { StyledCell } from './StyledCell'
 
 interface GradientTableCellProps extends TableCellProps {
     children: React.ReactNode
@@ -39,9 +40,9 @@ const TemperatureTableCell: React.FC<GradientTableCellProps> = ({ children, temp
     }
 
     return (
-        <TableCell {...rest} style={{ backgroundColor: calculateBackgroundColor(temperature) }}>
+        <StyledCell {...rest} style={{ backgroundColor: calculateBackgroundColor(temperature) }}>
             {children}
-        </TableCell>
+        </StyledCell>
     )
 }
 
