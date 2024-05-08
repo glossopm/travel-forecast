@@ -1,6 +1,7 @@
 {
   "name": "travel-forecast",
   "version": "0.1.0",
+  "homepage": "https://glossopm.github.io/travel-forecast/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -55,7 +56,6 @@
     "gh-pages": "^6.1.1",
     "typescript": "^5.2.2"
   },
-  "homepage": ".",
   "postcss": {
     "plugins": {
       "autoprefixer": {}
